@@ -1,7 +1,7 @@
 # 🚀 Jornada Python - Rocketseat
 
 Bem-vindo ao repositório da minha jornada com Python pela [Rocketseat](https://app.rocketseat.com.br/journey/python/contents)! 🧠💻  
-Aqui você vai encontrar os projetos, desafios e anotações que estou desenvolvendo durante o curso.  
+Aqui você vai encontrar os projetos, desafios e anotações que estou desenvolvendo durante o curso.
 
 ---
 
@@ -15,11 +15,12 @@ Desde os conceitos básicos até manipulação de arquivos, automações e APIs,
 ## 📁 Estrutura do repositório
 
 ```
-📦 jornada-python-rocketseat
-├── 📚 modulo-01-introducao
-├── ⚙️ modulo-02-logica-e-funcoes
-├── 📂 modulo-03-manipulacao-de-dados
-├── 🌐 modulo-04-apis-e-automatizacoes
+├── 📦 python
+   ├── 📦 jornada-python-rocketseat
+      ├── 📚 modulo-01-introducao
+      ├── ⚙️ modulo-02-logica-e-funcoes
+      ├── 📂 modulo-03-manipulacao-de-dados
+      ├── 🌐 modulo-04-apis-e-automatizacoes
 └── README.md
 ```
 
@@ -39,11 +40,13 @@ Desde os conceitos básicos até manipulação de arquivos, automações e APIs,
 ## 🧪 Como executar os códigos
 
 1. Clone o repositório:
+
    ```bash
    git clone https://github.com/juliocsilvestre/jornada-python-rocketseat.git
    ```
 
 2. Acesse o diretório:
+
    ```bash
    cd jornada-python-rocketseat
    ```
@@ -62,4 +65,4 @@ Acompanhe meus projetos e outras aventuras no meu [GitHub](https://github.com/ju
 
 ---
 
-> 💬 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+> 💬 _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
